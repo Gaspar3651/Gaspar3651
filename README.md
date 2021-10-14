@@ -1,6 +1,6 @@
 ## Olá tudo bem?
 
-Meu nome é Andrielyson, sou Técnico em Redes de Computadores no Instituto Federal, atuo de forma autônoma na área 
+Meu nome é Andrielysson, sou Técnico em Redes de Computadores no Instituto Federal, atuo de forma autônoma na área 
 de Desenvolvimento de Sistemas, possuindo um backgorund de programação e pesquisa na área 
 da tecnologia da informação. 
  
