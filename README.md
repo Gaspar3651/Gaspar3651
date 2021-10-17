@@ -44,6 +44,9 @@ desafios.
   
  </div>
   
+  
+  
+  ## Visitas no meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Gaspar3651/count.svg" />
  </p>
