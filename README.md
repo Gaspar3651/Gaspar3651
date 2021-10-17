@@ -43,6 +43,10 @@ desafios.
   ![Snake animation](https://github.com/Gaspar3651/Gaspar3651/blob/output/github-contribution-grid-snake.svg)
   
  </div>
+  
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Gaspar3651/count.svg" />
+ </p>
 <!--
 
 
