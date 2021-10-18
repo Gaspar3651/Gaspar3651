@@ -39,6 +39,7 @@ desafios.
  <div>
   <a href="https://instagram.com/gaspar3651_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:andrielysson.barbosa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+   <a href="https://www.linkedin.com/in/andrielysson-barbosa-26b020224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/Gaspar3651/Gaspar3651/blob/output/github-contribution-grid-snake.svg)
   
