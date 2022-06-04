@@ -4,7 +4,7 @@ Meu nome é Andrielysson, sou Técnico em Redes de Computadores no Instituto Fed
 de Desenvolvimento de Sistemas, possuindo um backgorund de programação e pesquisa na área 
 da tecnologia da informação. 
  
- Hoje, sigo atuando remotamente como Desenvolvedor JR, está no momento buscando novas oportunidades para continuar 
+ Hoje, segue atuando remotamente como Desenvolvedor JR Salesfoce na <a href="https://www.everymind.com.br" target="_blank">Everymind</a>, está no momento buscando novas oportunidades para continuar 
 aplicando o conhecimento adquidiro no ambiente acadêmico buscando sempre, novos 
 desafios.
 
