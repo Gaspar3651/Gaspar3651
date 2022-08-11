@@ -8,8 +8,8 @@ da tecnologia da informação.
 
  <div>
   <a href="https://github.com/Gaspar3651">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gaspar3651&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaspar3651&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" width="500px" src="https://github-readme-stats.vercel.app/api?username=Gaspar3651&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaspar3651&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
  <a href="https://github.com/Gaspar3651" target="_blank" ><img align="right" src="https://github.com/Gaspar3651/Gaspar3651/blob/main/.github/workflows/perfil%20e%20gifs/andando%20com%20lanterna.gif" height="150">
