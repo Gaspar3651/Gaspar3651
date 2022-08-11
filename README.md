@@ -4,7 +4,7 @@ Meu nome é Andrielysson, sou Técnico em Redes de Computadores no Instituto Fed
 de Desenvolvimento de Sistemas, possuindo um backgorund de programação e pesquisa na área 
 da tecnologia da informação. 
  
- Hoje, segue atuando remotamente como Desenvolvedor JR Salesforce na <a href="https://www.everymind.com.br" target="_blank">Everymind</a>, está no momento buscando novas oportunidades para continuar aplicando o conhecimento adquirido no ambiente acadêmico buscando sempre, novos desafios.
+ Hoje, segue atuando remotamente como Desenvolvedor JR Salesforce na <a href="https://www.everymind.com.br" target="_blank">Everymind</a>, buscando sempre novas oportunidades para continuar aplicando o conhecimento adquirido no ambiente acadêmico buscando sempre, novos desafios.
 
  <div>
   <a href="https://github.com/Gaspar3651">
