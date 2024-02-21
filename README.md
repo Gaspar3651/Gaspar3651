@@ -3,7 +3,7 @@
 Meu nome é Andrielysson, sou graduando em Sistemas de Informação pela Universidade Estácio de Sá, possuindo também curso técnico em Redes de Computadores no Instituto Federal, atuo de forma autônoma na área de Desenvolvimento de Sistemas, possuindo um backgorund de programação e pesquisa na área 
 da tecnologia da informação. 
  
- Hoje, segue atuando remotamente como Desenvolvedor JR Salesforce na <a href="https://www.everymind.com.br" target="_blank">Everymind</a>, buscando sempre novas oportunidades para continuar aplicando o conhecimento adquirido no ambiente acadêmico buscando sempre, novos desafios.
+ Hoje, segue atuando remotamente como Desenvolvedor Pleno Salesforce na <a href="https://www.everymind.com.br" target="_blank">Everymind</a>, buscando sempre novas oportunidades para continuar aplicando o conhecimento adquirido no ambiente acadêmico buscando sempre, novos desafios.
 
  <div>
   <a href="https://github.com/Gaspar3651">
